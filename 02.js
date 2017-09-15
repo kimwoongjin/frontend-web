@@ -1,4 +1,4 @@
-var isMan = true;
+/*var isMan = true;
 
 if(isMan) {
     console.log('남자다')
@@ -6,4 +6,5 @@ if(isMan) {
 
 else {
     console.log('여잔가?')
-}
+}*/
+// if문 예시
